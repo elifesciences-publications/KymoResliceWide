@@ -9,3 +9,5 @@ For description and manual refer to <a href="https://github.com/ekatrukha/KymoRe
 <br />
 Developed in <a href='http://cellbiology.science.uu.nl/'>Cell Biology group</a> of Utrecht University.  
 <a href="mailto:katpyxa@gmail.com">E-mail</a> for any questions.
+
+This code is associated with the paper "Kinesin-4 KIF21B is a potent microtubule pausing factor". eLife, 2017. http://dx.doi.org/10.7554/eLife.24746
